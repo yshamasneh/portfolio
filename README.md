@@ -13,5 +13,5 @@ You can view my resume here: [Download CV](./mohammad_shamasneh_cv.pdf)
 - [Distance Calculator](https://github.com/yshamasneh/distance-calculator) – Calculates distances using OpenStreetMap API + Haversine formula.
 ## 📬 Contact
 - LinkedIn: [linkedin.com/in/mohammad-shamasneh](https://www.linkedin.com/in/mohammad-shamasneh-2005130mo/)
-- Email: mohammad@example.com
+- Email: m.shamasneh00@gmail.com
 - GitHub: [github.com/yshamasneh](https://github.com/yshamasneh)
